@@ -1,5 +1,5 @@
-{
-"Name": "Victor",
-"Age": 27,
-"Hobbies": ["Coding", "Sports"]
-}
+[{
+"name": "Victor",
+"age": 27,
+"hobbies": ["Coding", "Sports"]
+}]
